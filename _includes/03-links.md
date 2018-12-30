@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[fw6's blog](fw6.github.io)
